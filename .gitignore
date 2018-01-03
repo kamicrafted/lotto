@@ -35,5 +35,5 @@
 .Trashes
 ehthumbs.db
 
-
+/node_modules
 /craft/config
